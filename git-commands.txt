@@ -1,0 +1,12 @@
+git status
+git remote add origin
+git remote set-url origin
+git remote -v
+git branch branchname
+git switch branchname
+git checkout branchname
+git branch
+git push -u origin branchname
+git push origin branchname
+git log
+git log --oneline
